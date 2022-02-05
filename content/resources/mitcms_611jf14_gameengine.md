@@ -5,6 +5,6 @@ description: 'Assignment to complete a tutorial for one of four game engines: Fl
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/0ae04c372894a22ed7359fafb9092cb1_MITCMS_611JF14_GameEngine.pdf
 file_type: application/pdf
 resourcetype: Document
-title: "Assignment: Game\_Engine\_Tutorial"
+title: 'Assignment: Game Engine Tutorial'
 uid: 0ae04c37-2894-a22e-d735-9fafb9092cb1
 ---

@@ -5,6 +5,6 @@ description: Instructions for a team project on project management, focus design
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/91c541057ab3034894685086ae9380f3_MITCMS_611JF14_project3.pdf
 file_type: application/pdf
 resourcetype: Document
-title: "Project\_3:\_Digital\_Prototype\_II:\_User\_Interface"
+title: 'Project 3: Digital Prototype II: User Interface'
 uid: 91c54105-7ab3-0348-9468-5086ae9380f3
 ---
