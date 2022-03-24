@@ -91,7 +91,7 @@ Design: Brainstorming and Prototyping
 
 [Paper Prototyping (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_paper_prot)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prototyping Map (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_prototmap)
+[Prototyping Map (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_prototmap)
 
 [A Selection of Indie Games (PDF)]({{< baseurl >}}/resources/mitcms_611jf14_aseleofinga)
 
@@ -213,7 +213,7 @@ Quintans, Desi. "[Game UI by Example: A Crash Course in the Good And the Bad](ht
 Marketing and Business
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)None
+None
 {{< tdclose >}}
 {{< tdopen >}}
 
