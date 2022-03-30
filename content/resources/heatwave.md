@@ -9,6 +9,7 @@ image_metadata:
   caption: Heat Wave.
   credit: ''
   image-alt: A screenshot of the game Heat Wave.
+parent_uid: 730c94b5-1a9f-064e-2879-a827ca62822c
 resourcetype: Image
 title: Heat Wave
 uid: 4a501186-8ac8-a354-29bc-190fec88ab21

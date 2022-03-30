@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 resourcetype: Image
 title: instructor_thumb
 uid: ab47bfe2-a2d9-bdb5-95b4-380199c4b9af

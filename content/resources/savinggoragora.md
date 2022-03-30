@@ -9,6 +9,7 @@ image_metadata:
   caption: Saving Gora Gora.
   credit: ''
   image-alt: The title screen of the game Saving Gora Gora.
+parent_uid: d5d9e066-5477-99f0-61e2-9cba26150421
 resourcetype: Image
 title: Saving Gora Gora
 uid: 520ab874-3e5d-fe2f-6aab-59df91408e61

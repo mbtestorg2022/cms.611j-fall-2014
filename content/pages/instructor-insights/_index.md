@@ -26,7 +26,7 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-Students interested in designing games for entertainment often go on to take _CMS.617 Advanced Game Studio_ and [_CMS.610 Media Industries and Systems_](/courses/cms-610-media-industries-and-systems-spring-2006/). Students interested in designing games for education usually take [_CMS.615 Games for Change_](/courses/cms-615-games-for-social-change-fall-2013/) and [_CMS.590J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/). Some students develop an academic interest in games, and for them, courses like [_CMS.300 Introduction to Videogame Studies_](/courses/cms-300-introduction-to-videogame-studies-fall-2011/) and _CMS.616J Games and Culture_ provide a good foundation for their work.
+Students interested in designing games for entertainment often go on to take _CMS.617 Advanced Game Studio_ and [_CMS.610 Media Industries and Systems_](/courses/cms-610-media-industries-and-systems-spring-2006). Students interested in designing games for education usually take [_CMS.615 Games for Change_](/courses/cms-615-games-for-social-change-fall-2013) and [_CMS.590J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015). Some students develop an academic interest in games, and for them, courses like [_CMS.300 Introduction to Videogame Studies_](/courses/cms-300-introduction-to-videogame-studies-fall-2011) and _CMS.616J Games and Culture_ provide a good foundation for their work.
 
 Meet the Instructors
 --------------------
@@ -105,7 +105,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_CMS.608 Game Design_](/courses/cms-608-game-design-spring-2014/) or [_6.01 Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+*   [_CMS.608 Game Design_](/courses/cms-608-game-design-spring-2014) or [_6.01 Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
 *   Although not required, it is recommended that students take _CMS.301 Introduction to Game Design Methods_ before taking CMS.611.
 
 ### Requirements Satisfied

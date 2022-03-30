@@ -5,6 +5,7 @@ description: "Instructions for a team project to create a playable digital proto
   \ management concepts into\_the\_team\u2019s\_process."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/da82779fc3e80d53b8d6d4e3a8701c23_MITCMS_611JF14_project2.pdf
 file_type: application/pdf
+parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 resourcetype: Document
 title: 'Project 2: Digital Prototype with Project Management'
 uid: da82779f-c3e8-0d53-b8d6-d4e3a8701c23
